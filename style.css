@@ -1,0 +1,21 @@
+table {
+	border-collapse:collapse;
+	table-layout:fixed;
+	width:1000px;
+}
+table thead td,
+table .slot {
+	background-color:#EEE;
+	font-weight:bold;
+	text-align:center;
+}
+table td {
+	border:1px solid #000;
+	font-family:sans-serif;
+	padding:4px 6px;
+}
+span {
+	display:block;
+	text-align:center;
+	padding:2px 0;
+}
